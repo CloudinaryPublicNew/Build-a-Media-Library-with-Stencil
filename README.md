@@ -30,5 +30,11 @@ This file serves as your book's preface, a great place to describe your book's c
 > **Danger** Danger
 > **Quote** Quote
 
+> **Custom** Custom annotation
+
+
+
+
+
 
 

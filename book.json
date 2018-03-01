@@ -16,6 +16,10 @@
             "star": {
                 "alert": "warning",
                 "picto": "fa-star"
+            },
+            "custom": {
+                "alert": "success",
+                "picto": "fa-user"
             }
     },
     "theme-default": {
