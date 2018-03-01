@@ -8,13 +8,6 @@
     "richquotes"
   ],
   "pluginsConfig": {
-   "richquotes":
-           {
-            "star": {
-                "alert": "warning",
-                "picto": "fa-star"
-      }
-    },
     "theme-default": {
       "showLevel": false,
       "styles": {
