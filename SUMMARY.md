@@ -13,4 +13,5 @@
   * [Lab Two Intro](/lab2/lab2-intro.md)
   * [How to Setup Cloudinary](/lab2/lab2-intro.md)
   * [Video Player](/lab2/video-player.md "Video Player")
+  * [ Lab 1 Intro](/lab1/lab1-intro.md "Lab 1 Intro")
 
