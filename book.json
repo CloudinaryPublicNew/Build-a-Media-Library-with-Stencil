@@ -8,6 +8,9 @@
     "richquotes"
   ],
   "pluginsConfig": {
+  "code": {
+    "copyButtons": true
+  },
   "richquotes":
         {
             "star": {
