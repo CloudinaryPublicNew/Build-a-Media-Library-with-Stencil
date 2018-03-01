@@ -17,4 +17,18 @@ This file serves as your book's preface, a great place to describe your book's c
 <script async src="https://static.codepen.io/assets/embed/ei.js"></script>
 
 
+### Annotations:
+
+> **Info** Info
+> **Note** Note
+> **Tag** Tag
+> **Comment** Comment
+> **Hint** Hint
+> **Success** Success
+> **Warning** Warning
+> **Caution** Caution
+> **Danger** Danger
+> **Quote** Quote
+
+
 
