@@ -4,8 +4,11 @@
     "html5-video",
     "youtube",
     "sharing"
+    "code",
+    "richquotes"
   ],
   "pluginsConfig": {
+   
     "theme-default": {
       "showLevel": false,
       "styles": {
