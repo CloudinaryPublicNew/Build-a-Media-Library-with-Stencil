@@ -1,4 +1,4 @@
-# Build a Media Library with Stencil
+# Overview
 
 This file serves as your book's preface, a great place to describe your book's content and ideas.
 
