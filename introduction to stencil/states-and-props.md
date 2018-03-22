@@ -96,4 +96,4 @@ interface Todo {
 
 The property is defined as an array and typed with the Todo interface, as well. When the component receives this value, we iterate over each of the items in the array using **map** and display them in a **li** tag. There is also a **completedClass** method, which returns **completed** or empty string if the **completed** property of the each todo is **true** or **false** respectively.
 
-> **Info**  States are mutable and can be changed at runtime, while props will always retain the value it received throughout runtime. Props also are received as attributes via the component's tag.
+> **Info** **Note:** States are mutable and can be changed at runtime, while props will always retain the value it received throughout runtime. Props also are received as attributes via the component's tag.
