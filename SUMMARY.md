@@ -11,6 +11,8 @@
   * [Composing Heirarchical components](/Introduction to Stencil/composing-heirarchical-components.md)
   * [States and Props](/Introduction to Stencil/states-and-props.md)
   * [Events and Listeners](/Introduction to Stencil/events-and-listeners.md "Events and Listeners")
+  * [Creating new Todos](/Introduction to Stencil/creating-new-todos.md "Creating new Todos")
+
   
 
 ## Build an Image Gallery with Stencil
