@@ -1,12 +1,8 @@
+![Build a Media Library with Stencil](https://cloudinary-res.cloudinary.com/image/upload/c_fill,w_770/dpr_2.0/StecilJS_2000x1100.png)
+
 # [Build a Media Library with Stencil](https://cloudinary.gitbooks.io/build-a-media-library-with-stencil/content/)
 
-In this lab, we will build out a **Mini Netflix** with React and Cloudinary in 10 minutes. In fact, I think we might build it less time. Check out the [demo.](https://miniflix-73250.firebaseapp.com)
+In this lab, we will build an image gallery and a video component.
 
-Developers are constantly faced with challenges of building complex products every single day. And there are constraints on the time needed to build out the features of these products.
-
-Engineering and Product managers want to beat deadlines for projects daily. CEOs want to roll out new products as fast as possible. Entrepreneurs need their MVPs like yesterday. With this in mind, what should developers do?
-
-If you want to check out the final project, visit the [GitHub project](https://github.com/unicodeveloper/miniflix).
-
-
+This lab will illuminate your understanding of Stencil and arm you with the confidence needed to build apps with Stencil.
 
