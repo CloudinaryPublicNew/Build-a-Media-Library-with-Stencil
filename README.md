@@ -1,50 +1,12 @@
-# Overview
+# [Build a Media Library with Stencil](https://cloudinary.gitbooks.io/build-a-media-library-with-stencil/content/)
 
-This file serves as your book's preface, a great place to describe your book's content and ideas.
+In this lab, we will build out a **Mini Netflix** with React and Cloudinary in 10 minutes. In fact, I think we might build it less time. Check out the [demo.](https://miniflix-73250.firebaseapp.com)
 
+Developers are constantly faced with challenges of building complex products every single day. And there are constraints on the time needed to build out the features of these products.
 
->**success** Note: This is example of a code snip
+Engineering and Product managers want to beat deadlines for projects daily. CEOs want to roll out new products as fast as possible. Entrepreneurs need their MVPs like yesterday. With this in mind, what should developers do?
 
-
-
->**star** Note: This is example of a code snip
-
-
-
-
-
-<p data-height="300" data-theme-id="31498" data-slug-hash="GQepOG" data-default-tab="js,result" data-user="dzeitman" data-embed-version="2" data-pen-title="Cloudinary Player" class="codepen">See the Pen <a href="https://codepen.io/dzeitman/pen/GQepOG/">Cloudinary Player</a> by Dan Zeitman (<a href="https://codepen.io/dzeitman">@dzeitman</a>) on <a href="https://codepen.io">CodePen</a>.</p>
-<script async src="https://static.codepen.io/assets/embed/ei.js"></script>
-
-
-### Annotations:
-
-> **Info** Info
-
-
-> **Note** Note
-
-> **Tag** Tag
-
-> **Comment** Comment
-
-> **Hint** Hint
-
-> **Success** Success
-
-> **Warning** Warning
-
-> **Caution** Caution
-
-> **Danger** Danger
-
-> **Quote** Quote
-
-> **Custom** Custom annotation
-
-
-
-
+If you want to check out the final project, visit the [GitHub project](https://github.com/unicodeveloper/miniflix).
 
 
 
