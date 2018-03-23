@@ -2,7 +2,7 @@
 
 # [Build a Media Library with Stencil](https://cloudinary.gitbooks.io/build-a-media-library-with-stencil/content/)
 
-In this lab, we will build an image gallery and a video component.
+In this lab, we will build an **Image Gallery** and a **Video Component**.
 
 This lab will illuminate your understanding of Stencil and arm you with the confidence needed to build apps with Stencil.
 
